@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Manim Madhav and I'm studying Computer Science with Specialization in Data Science from VIT, Vellore.
 <!--
 **ManimMadhav/ManimMadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
