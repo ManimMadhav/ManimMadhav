@@ -3,5 +3,5 @@ My name is Manim Madhav and I'm studying Computer Science with Specialization in
 - 🔭 I’m currently working on Python, Basic WebDev and ML.
 - 📫 How to reach me: Email ID: manim.madhav@gmail.com,<br/>LinkedIn: https://www.linkedin.com/in/manim-madhav-6103121b4/
 <br/>
-Member of ACM Research, VIT Vellore.<br/>
+Core committee member of ACM Research, VIT Vellore.<br/>
 Senior core member of E-Cell Research, VIT Vellore.
