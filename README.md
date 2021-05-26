@@ -6,5 +6,5 @@ This is cool, turns out there's a Python library used to create mathematical ani
 - 📫 How to reach me: Email ID: manim.madhav@gmail.com,<br/>LinkedIn: https://www.linkedin.com/in/manim-madhav-6103121b4/
 <br/>
 Core committee member at ACM (Research), VIT Vellore.<br/>
-Core committee member (Technical Domain) at IEEE-IAS, VIT Vellore.
+Core committee member (Technical Domain) at IEEE-IAS, VIT Vellore.<br/>
 Senior core member at E-Cell (Research), VIT Vellore.
