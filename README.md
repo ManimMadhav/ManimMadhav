@@ -4,7 +4,7 @@ My name is Manim Madhav and I'm studying Computer Science with Specialization in
 This is cool, turns out there's a Python library used to create mathematical animations called 'Manim', and I'm pretty sure it's named after me.:laughing:<br/>
 
 - 🔭 I’m currently working on Python, Basic WebDev and ML.
-- 📫 How to reach me: Email ID: manim.madhav@gmail.com,<br/> or via <a href='https://www.linkedin.com/in/manim-madhav-6103121b4/'>LinkedIn.</a><br>
+- 📫 How to reach me: Email ID: manim.madhav@gmail.com, or via <a href='https://www.linkedin.com/in/manim-madhav-6103121b4/'>LinkedIn.</a><br>
 ### Programming Languages and Functionalities I'm familiar with:
 [![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cprogramming.com/)
