@@ -13,5 +13,5 @@ This is cool, turns out there's a Python library used to create mathematical ani
 <br/>
 ### Clubs and Chapters: 
 Research member at <a href='https://github.com/ACM-VIT' target='_blank'>ACM</a>, VIT Vellore.<br/>
-Core committee member at IEEE-IAS (Technical), VIT Vellore.<br/>
+Core committee member at <a href='https://www.ieeeiasvit.com/'>IEEE-IAS<a/> (Technical), VIT Vellore.<br/>
 Senior core member at E-Cell (Research), VIT Vellore.
