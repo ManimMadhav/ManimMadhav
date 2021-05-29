@@ -5,10 +5,9 @@ This is cool, turns out there's a Python library used to create mathematical ani
 - 🔭 I’m currently working on Python, Basic WebDev and ML.
 - 📫 How to reach me: Email ID: manim.madhav@gmail.com,<br/> or via <a href='https://www.linkedin.com/in/manim-madhav-6103121b4/'>LinkedIn.</a><br>
 ### Programming Languages and Functionalities I'm familiar with:
-<br/><br/><a href='https://www.python.org/' target="_blank"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png' align='centre' width='50px' height='50px' /></a><br/>
+<br/><a href='https://www.python.org/' target="_blank"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png' align='centre' width='50px' height='50px' /></a><br/>
 <br/>
 ### Clubs and Chapters: 
-<br/>
 Research member at <a href='https://github.com/ACM-VIT' target='_blank'>ACM</a>, VIT Vellore.<br/>
 Core committee member at IEEE-IAS (Technical), VIT Vellore.<br/>
 Senior core member at E-Cell (Research), VIT Vellore.
