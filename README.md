@@ -12,7 +12,7 @@ This is cool, turns out there's a Python library used to create mathematical ani
 [![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 <br/>
 ### Frameworks I'm familiar with:
-![image](https://img.shields.io/badge/MATPLOTLIB-PYTHON-RED)
+[![image](https://img.shields.io/badge/MATPLOTLIB-PYTHON-RED)](https://matplotlib.org/)
 [![image](https://img.shields.io/badge/SCI--KIT%20LEARN-PYTHON-red)](https://scikit-learn.org/)
 [![image](https://img.shields.io/badge/NLTK-PYTHON-blue)](https://www.nltk.org/)
 
