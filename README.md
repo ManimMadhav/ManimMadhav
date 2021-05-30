@@ -15,6 +15,7 @@ This is cool, turns out there's a Python library used to create mathematical ani
 [![image](https://img.shields.io/badge/MATPLOTLIB-PYTHON-RED)](https://matplotlib.org/)
 [![image](https://img.shields.io/badge/SCI--KIT%20LEARN-PYTHON-red)](https://scikit-learn.org/)
 [![image](https://img.shields.io/badge/NLTK-PYTHON-blue)](https://www.nltk.org/)
+[![image](https://img.shields.io/badge/NUMPY-PYTHON-yellow)](https://numpy.org/)
 
 ### Clubs and Chapters: 
 Research member at <a href='https://github.com/ACM-VIT' target='_blank'>ACM</a>, VIT Vellore.<br/>
