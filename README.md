@@ -6,10 +6,7 @@ This is cool, turns out there's a Python library used to create mathematical ani
 - 🔭 I’m currently working on Python, C++, Basic WebDev and ML.
 - 📫 How to reach me: Email ID: manim.madhav@gmail.com, or via <a href='https://www.linkedin.com/in/manim-madhav-6103121b4/'>LinkedIn.</a><br>
 <br/>
-<p align=center >
-    <img height=200 align="center" src="https://github-readme-stats-lac-five.vercel.app/api?username=ManimMadhav&count_private=true&show_icons=true&include_all_commits=true&theme=algolia">
-  </a>
-</p>
+
 
 ### Programming Languages I'm familiar with:
 [![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
