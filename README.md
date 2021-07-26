@@ -22,7 +22,7 @@ This is cool, turns out there's a Python library used to create mathematical ani
 [![image](https://img.shields.io/badge/NUMPY-PYTHON-yellow)](https://numpy.org/)
 
 ![Top Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=ManimMadhav&theme=radical)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManimMadhav&theme=blueberry&show_icons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManimMadhav&theme=blueberry)
 ### Clubs and Chapters: 
 Research member at <a href='https://github.com/ACM-VIT'>ACM</a>, VIT Vellore.<br/>
 Core committee member (Technical) at <a href='https://www.ieeeiasvit.com/'>IEEE-IAS<a/>, VIT Vellore.<br/>
