@@ -3,7 +3,7 @@ My name is Manim Madhav and I'm studying Computer Science with Specialization in
 <br/>
 This is cool, turns out there's a Python library used to create mathematical animations called <a href='https://github.com/3b1b/manim'>Manim</a>, and I'm pretty sure it's named after me.:laughing:<br>
 
-- 🔭 I’m currently working on Python, C++, Basic WebDev and ML.
+- 🔭 I’m currently working on Python, Java, Web Devolopement and Machine Learning.
 - 📫 How to reach me: Email ID: manim.madhav@gmail.com, or via <a href='https://www.linkedin.com/in/manim-madhav-6103121b4/'>LinkedIn.</a><br>
 <br/>
 
