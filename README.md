@@ -17,6 +17,7 @@ This is cool, turns out there's a Python library used to create mathematical ani
 [![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![image](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E/)](https://www.javascript.com/)
 
+
 <br/>
 <b>Frameworks I'm familiar with:</b>
 
@@ -25,6 +26,7 @@ This is cool, turns out there's a Python library used to create mathematical ani
 [![image](https://img.shields.io/badge/SCI--KIT%20LEARN-PYTHON-red)](https://scikit-learn.org/)
 [![image](https://img.shields.io/badge/NLTK-PYTHON-blue)](https://www.nltk.org/)
 [![image](https://img.shields.io/badge/NUMPY-PYTHON-yellow)](https://numpy.org/)
+[![image](https://img.shields.io/badge/PYTHON-TensorFlow-green)](https://www.tensorflow.org/)
 
 ![Top Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=ManimMadhav&theme=cobalt)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManimMadhav&theme=blueberry&show_icons=true )
