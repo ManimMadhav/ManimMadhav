@@ -27,6 +27,8 @@ This is cool, turns out there's a Python library used to create mathematical ani
 [![image](https://img.shields.io/badge/NLTK-PYTHON-blue)](https://www.nltk.org/)
 [![image](https://img.shields.io/badge/NUMPY-PYTHON-yellow)](https://numpy.org/)
 [![image](https://img.shields.io/badge/TensorFlow-PYTHON-green)](https://www.tensorflow.org/)
+[![image](https://img.shields.io/badge/JavaFX-JAVA-blue)](https://openjfx.io/)
+[![image](https://img.shields.io/badge/JDBC-JAVA-red)](https://openjfx.io/)
 
 ![Top Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=ManimMadhav&theme=cobalt)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManimMadhav&theme=blueberry&show_icons=true )
