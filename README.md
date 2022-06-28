@@ -17,7 +17,7 @@ This is cool, turns out there's a Python library used to create mathematical ani
 [![image](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E/)](https://www.javascript.com/)
 
 <br/>
-<b>Frameworks I'm familiar with:</b>
+### Frameworks I'm familiar with:
 
 [![image](https://img.shields.io/badge/OpenCV-PYTHON-yellowgreen)](https://opencv.org/)
 [![image](https://img.shields.io/badge/MATPLOTLIB-PYTHON-RED)](https://matplotlib.org/)
